@@ -3,6 +3,7 @@
 
 
 - ▶ **Try it:** https://manabitube0126-ship-it.github.io/my-idea-1010/
+- 🎬 **Demo video:** https://manabitube0126-ship-it.github.io/my-idea-1010/demo.mp4
 
 ## About
 
